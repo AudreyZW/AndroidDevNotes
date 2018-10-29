@@ -12,3 +12,15 @@
 </group>
 ```
 
+
+
+
+
+### Hide ActionBar title
+
+in java file onCreate:
+
+```java
+getSupportActionBar().setDisplayShowTitleEnabled(false);
+```
+
